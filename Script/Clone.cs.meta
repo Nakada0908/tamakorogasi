@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09a623672a3f6734ea1187316c8de759
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tama_Mizu: {fileID: 3290007677132772424, guid: 0a8fb97095ea7314fbbb4057b3046098, type: 3}
+  - Tama_Red: {fileID: 7774488637902303968, guid: f112238265f24a54eacc7c0ce2487582, type: 3}
+  - Tama_Blue: {fileID: 8968271524627437442, guid: 85c4b0074cef1074881820593290834a, type: 3}
+  - Tama_Green: {fileID: 6381783583459681858, guid: 93de0173745884847a75250a02eb76af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
